@@ -3,7 +3,7 @@
   # 🔐 Mnemonic Seed Generator
   **Secure Offline BIP39 Seed Phrase Generator**
 
-  [![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg?style=for-the-badge)]()
+  [![Version](https://img.shields.io/badge/Version-1.2.0-blue.svg?style=for-the-badge)]()
   [![Security](https://img.shields.io/badge/Security-CSPRNG-success.svg?style=for-the-badge)]()
   [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg?style=for-the-badge)]()
 
